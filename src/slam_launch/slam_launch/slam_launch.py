@@ -48,7 +48,7 @@ def generate_launch_description():
         parameters=[
             {"usb_bus_no": -1},
             {"usb_path": "null"},
-            {"confiPath": "/home/isla/code/rtabmap_ws/src/ascamera/configurationfiles"},
+            {"confiPath": "/home/isla/rtabmap_ws/src/ascamera/configurationfiles"},
             {"color_pcl": False},
             {"pub_tfTree": True},
             {"depth_width": 640},
