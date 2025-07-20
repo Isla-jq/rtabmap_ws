@@ -1,0 +1,7 @@
+/build/
+/install/
+/log/
+/.vscode/
+/.vscode/settings.json
+/out/
+/src/sls_controller/sls_controller/__pycache__/
